@@ -1,0 +1,2 @@
+- options é uma lista, apesar de ser uma string, é um conjunto de caracteres que o transforma me lista;
+- variável i que vem para auxiliar na repetiçaõ / laço
