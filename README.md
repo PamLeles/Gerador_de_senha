@@ -1,3 +1,4 @@
 # Gerador de senhas com Python
 
-- Treinando Python, para entender laços de repetição for;
+- Mini projeto criado para gerar senha, com a quantidade de digitos na senha que o usuario quer que seja gerado;
+- Utilizado laço de repetição For;
